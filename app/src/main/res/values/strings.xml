@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FoodCourt</string>
+
+    <!--api-->
+    <string name="base_url">http://188.166.81.130</string>
+    <string name="something_wrong">Something went wrong</string>
+    <string name="cannot_connect_network">Cannot connect to Internet...Please check your connection</string>
+    <string name="server_not_found">The server could not be found. Please try again after some time</string>
+    <string name="parsing_error">Parsing error, Please try again after some time</string>
+    <string name="connection_timeout">Connection TimeOut, Please check your internet connection</string>
+
+
+    <!--splash-->
+    <string name="job_test">Job Test</string>
+
+    <!--stores-->
+    <string name="no_items">No items to show</string>
+    <string name="filter_hint">Type to Filter..</string>
+</resources>

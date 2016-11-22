@@ -1,0 +1,21 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--splash-->
+    <dimen name="splash_text_margin">7dp</dimen>
+
+    <!--stores-->
+    <dimen name="store_cell_default_margin">5dp</dimen>
+    <dimen name="search_view_top_bottom_margin">7dp</dimen>
+    <dimen name="search_view_left_right_margin">12dp</dimen>
+    <dimen name="recycler_view_margins">8dp</dimen>
+    <dimen name="store_img_progress_width_height">35dp</dimen>
+    <dimen name="cell_padding_top_bottom">15dp</dimen>
+    <dimen name="store_cell_height">90dp</dimen>
+    <dimen name="cell_img_width">80dp</dimen>
+    <dimen name="cell_img_height">62dp</dimen>
+    <dimen name="search_width">300dp</dimen>
+
+</resources>
